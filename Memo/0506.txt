@@ -1,0 +1,5 @@
+1. set path="경로"는 임시 설정이므로 해당 커맨드에만 적용
+2. Ultralearning. 실전에 부딪히고 부족한 점을 훈련. 정확하고 강한 피드백. 내가 만들고 싶은 프로그램? 예쁜 웹 메트로놈?
+3. cmd javac. 확장자 필요함. 대소문자 구분 없음(윈도우는 case-insensitive & preservation).
+4. cmd java. 확장자 제외(Because you are not describing a file to run. You are telling Java which class contains the main method - and the class' name is (in your case)). 대소문자 구분(class name).
+5. 인터프리터 언어. 컴파일 후 바로 실행됨. 따라서 소스코드만 수정하면 결과가 즉시 수정. 컴파일러 언어보다 편한 점에서 진보? 실행자 입장에서는 불필요한 컴파일 작업이 계속 발생하여 자원 비효율적.

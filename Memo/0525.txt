@@ -1,0 +1,10 @@
+1. 상속의 의의
+- 단순히 코드의 재사용성만 의미하는 것이 아니다.
+- 객체지향의 의미: 상위로 갈수록 추상화, 하위로 갈수록 구체화
+- 상위 개념부터 구조적으로 구성하고 그 구조에서 객체를 생성
+- class Mammal extends Organism {호흡한다}
+- class Human extends Mammal {포유류}
+- class Student extends Human {생각한다}
+- Student paul = new Student(); 
+- class Junior extends Student {1등급}
+...

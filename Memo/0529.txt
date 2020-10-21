@@ -1,0 +1,1 @@
+1. Inner Local Class에서 대입되는 변수는 final? 객체 생성
